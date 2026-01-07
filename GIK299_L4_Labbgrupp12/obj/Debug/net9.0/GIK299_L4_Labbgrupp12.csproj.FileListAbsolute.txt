@@ -1,0 +1,14 @@
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.AssemblyInfoInputs.cache
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.AssemblyInfo.cs
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.csproj.CoreCompileInputs.cache
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/bin/Debug/net9.0/GIK299_L4_Labbgrupp12
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/bin/Debug/net9.0/GIK299_L4_Labbgrupp12.deps.json
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/bin/Debug/net9.0/GIK299_L4_Labbgrupp12.runtimeconfig.json
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/bin/Debug/net9.0/GIK299_L4_Labbgrupp12.dll
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/bin/Debug/net9.0/GIK299_L4_Labbgrupp12.pdb
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.dll
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/refint/GIK299_L4_Labbgrupp12.dll
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.pdb
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/GIK299_L4_Labbgrupp12.genruntimeconfig.cache
+/Users/felixwiklund/RiderProjects/Labb4/GIK299_L4_Labbgrupp12/obj/Debug/net9.0/ref/GIK299_L4_Labbgrupp12.dll

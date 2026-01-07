@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GIK299_L4_Labbgrupp12/1.0.0": {
+        "runtime": {
+          "GIK299_L4_Labbgrupp12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIK299_L4_Labbgrupp12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
